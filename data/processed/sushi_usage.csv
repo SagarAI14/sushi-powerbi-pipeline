@@ -1,0 +1,5 @@
+Title,Publisher,Platform,Begin_Date,End_Date,Metric_Type,Count
+Machine Learning Basics,ABC Publisher,ReadCube,2025-01-01,2025-01-31,Total_Item_Requests,120
+Machine Learning Basics,ABC Publisher,ReadCube,2025-01-01,2025-01-31,Unique_Item_Requests,85
+Cloud Computing Guide,XYZ Publisher,ReadCube,2025-01-01,2025-01-31,Total_Item_Requests,210
+Cloud Computing Guide,XYZ Publisher,ReadCube,2025-01-01,2025-01-31,Unique_Item_Requests,150
